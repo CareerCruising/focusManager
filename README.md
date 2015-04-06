@@ -1,5 +1,7 @@
 #Usage
-bower install https://github.com/CareerCruising/focusManager.git --save
-Include 'ccFocusManager' as a dependency in your app.js
+- bower install https://github.com/CareerCruising/focusManager.git --save
+- Include 'ccFocusManager' as a dependency in your app.js
+- Use your github user name/password to install this dependency
+
 
 
