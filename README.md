@@ -1,2 +1,2 @@
 #Usage
-Details how to use this
+Include 'ccFocusManager' as your dependency
