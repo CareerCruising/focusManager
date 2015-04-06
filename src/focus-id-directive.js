@@ -4,7 +4,7 @@
 
 'use strict';
 
-angular.module('ccFocusManager')
+angular.module('ccFocusManager.directives', [])
   .directive('focusId', FocusId);
 
 function FocusId(FocusManagerService) {

@@ -4,7 +4,7 @@
 
 'use strict';
 
-angular.module('ccFocusManager')
+angular.module('ccFocusManager.services', [])
   .factory('FocusManagerService', FocusManagerService);
 
 /**

@@ -6,7 +6,11 @@
     "George Batalinski"
   ],
   "description": "Focus Manager Directive/Service",
-  "main": "focus-manager.js",
+  "main": [
+    "src/focus-id-directive.js",
+    "src/focus-manager-service.js",
+    "src/focus-manager.js"
+  ],
   "license": "MIT",
   "private": true,
   "dependencies": {
