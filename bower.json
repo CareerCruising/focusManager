@@ -6,9 +6,9 @@
     "George Batalinski"
   ],
   "ignore": [
-    'bower.json',
-    'README.md',
-    'tests/*'
+    "bower.json",
+    "README.md",
+    "tests/*"
   ],
   "description": "Focus Manager Directive/Service",
   "main": [
