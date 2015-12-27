@@ -1,6 +1,6 @@
 {
   "name": "focusManager",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/CareerCruising/focusManager",
   "authors": [
     "George Batalinski"
@@ -12,8 +12,6 @@
   ],
   "description": "Focus Manager Directive/Service",
   "main": [
-    "src/focus-id-directive.js",
-    "src/focus-manager-service.js",
     "src/focus-manager.js"
   ],
   "license": "MIT",
