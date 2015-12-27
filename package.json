@@ -1,8 +1,8 @@
 {
   "name": "focusmanager",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Focus Manager Directive/Service",
-  "main": "focus-manager.js",
+  "main": "src/focus-manager.js",
   "directories": {
     "test": "tests"
   },
