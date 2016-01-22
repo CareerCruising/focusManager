@@ -71,7 +71,7 @@ function FocusManagerService() {
 
 }
 
-
+FocusId.$inject = ['FocusManagerService'];
 function FocusId(FocusManagerService) {
 
   /**
