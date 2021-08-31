@@ -1,0 +1,22 @@
+{
+  "name": "focusmanager",
+  "version": "0.0.6",
+  "description": "Focus Manager Directive/Service",
+  "main": "src/focus-manager.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CareerCruising/focusManager.git"
+  },
+  "author": "George Batalinsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CareerCruising/focusManager/issues"
+  },
+  "homepage": "https://github.com/CareerCruising/focusManager#readme"
+}

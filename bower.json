@@ -1,0 +1,21 @@
+{
+  "name": "focusManager",
+  "version": "0.0.6",
+  "homepage": "https://github.com/CareerCruising/focusManager",
+  "authors": [
+    "George Batalinski"
+  ],
+  "ignore": [
+    "bower.json",
+    "README.md",
+    "tests/*"
+  ],
+  "description": "Focus Manager Directive/Service",
+  "main": [
+    "src/focus-manager.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.3.2"
+  }
+}
